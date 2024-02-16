@@ -36,7 +36,7 @@ def main(file_path, repo_owner, repo_name):
                 create_github_issue(repo_owner, repo_name, trimmed_line, "")
 
 if __name__ == "__main__":
-    file_path = "file.txt"
+    file_path = "tasks.txt"
     repo_owner = "BaseMax"
     repo_name = "AutoCreateGitHubIssuesManage"
 
