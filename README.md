@@ -1,4 +1,4 @@
-# Auto Create GitHub Issues - Project Managment
+# Auto Create GitHub Issues - Project Management
 
 Automatically create GitHub issues from a file using Python.
 
