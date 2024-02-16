@@ -50,6 +50,22 @@ Run the script:
 python script.py
 ```
 
+## Demo
+
+```
+C:\Users\MAX\Projects\AutoCreateGitHubIssuesManage>python script.py
+Issue created successfully: https://github.com/BaseMax/AutoCreateGitHubIssuesManage/issues/1
+Issue created successfully: https://github.com/BaseMax/AutoCreateGitHubIssuesManage/issues/2
+Issue created successfully: https://github.com/BaseMax/AutoCreateGitHubIssuesManage/issues/3
+Issue created successfully: https://github.com/BaseMax/AutoCreateGitHubIssuesManage/issues/4
+Issue created successfully: https://github.com/BaseMax/AutoCreateGitHubIssuesManage/issues/5
+Issue created successfully: https://github.com/BaseMax/AutoCreateGitHubIssuesManage/issues/6
+Issue created successfully: https://github.com/BaseMax/AutoCreateGitHubIssuesManage/issues/7
+Issue created successfully: https://github.com/BaseMax/AutoCreateGitHubIssuesManage/issues/8
+Issue created successfully: https://github.com/BaseMax/AutoCreateGitHubIssuesManage/issues/9
+Issue created successfully: https://github.com/BaseMax/AutoCreateGitHubIssuesManage/issues/10
+```
+
 ## License
 
 This project is licensed under the MIT License.
