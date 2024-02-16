@@ -24,6 +24,16 @@ Install required dependencies:
 pip install -r requirements.txt
 ```
 
+Use:
+
+```bash
+GITHUB_TOKEN=xxxxxxxxxxxx python script.py
+
+or
+
+set GITHUB_TOKEN=xxxxxxxxxxxx && python script.py
+```
+
 ## Usage
 
 Create a GitHub token and set it in the `.env` file:
